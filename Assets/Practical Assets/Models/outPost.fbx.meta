@@ -1,92 +1,202 @@
 fileFormatVersion: 2
 guid: 7b5b57d547ed446c795e8b86e881b006
 ModelImporter:
-  serializedVersion: 22
-  fileIDToRecycleName:
-    100000: dish
-    100002: door
-    100004: lamp
-    100006: //RootNode
-    100008: outpost
-    100010: table
-    100012: wood
-    100014: wood_001
-    100016: wood_002
-    400000: dish
-    400002: door
-    400004: lamp
-    400006: //RootNode
-    400008: outpost
-    400010: table
-    400012: wood
-    400014: wood_001
-    400016: wood_002
-    2300000: dish
-    2300002: door
-    2300004: lamp
-    2300006: outpost
-    2300008: table
-    2300010: wood
-    2300012: wood_001
-    2300014: wood_002
-    3300000: dish
-    3300002: door
-    3300004: lamp
-    3300006: outpost
-    3300008: table
-    3300010: wood
-    3300012: wood_001
-    3300014: wood_002
-    4300000: wood_001
-    4300002: wood
-    4300004: outpost
-    4300006: table
-    4300008: dish
-    4300010: wood_002
-    4300012: lamp
-    4300014: door
-    6400000: dish
-    6400002: door
-    6400004: lamp
-    6400006: outpost
-    6400008: table
-    6400010: wood
-    6400012: wood_001
-    6400014: wood_002
-    7400000: OpenDoor
-    7400002: Open
-    7400004: Close
-    11100000: //RootNode
+  serializedVersion: 24600
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: dish
+  - first:
+      1: 100002
+    second: door
+  - first:
+      1: 100004
+    second: lamp
+  - first:
+      1: 100006
+    second: //RootNode
+  - first:
+      1: 100008
+    second: outpost
+  - first:
+      1: 100010
+    second: table
+  - first:
+      1: 100012
+    second: wood
+  - first:
+      1: 100014
+    second: wood_001
+  - first:
+      1: 100016
+    second: wood_002
+  - first:
+      4: 400000
+    second: dish
+  - first:
+      4: 400002
+    second: door
+  - first:
+      4: 400004
+    second: lamp
+  - first:
+      4: 400006
+    second: //RootNode
+  - first:
+      4: 400008
+    second: outpost
+  - first:
+      4: 400010
+    second: table
+  - first:
+      4: 400012
+    second: wood
+  - first:
+      4: 400014
+    second: wood_001
+  - first:
+      4: 400016
+    second: wood_002
+  - first:
+      23: 2300000
+    second: dish
+  - first:
+      23: 2300002
+    second: door
+  - first:
+      23: 2300004
+    second: lamp
+  - first:
+      23: 2300006
+    second: outpost
+  - first:
+      23: 2300008
+    second: table
+  - first:
+      23: 2300010
+    second: wood
+  - first:
+      23: 2300012
+    second: wood_001
+  - first:
+      23: 2300014
+    second: wood_002
+  - first:
+      33: 3300000
+    second: dish
+  - first:
+      33: 3300002
+    second: door
+  - first:
+      33: 3300004
+    second: lamp
+  - first:
+      33: 3300006
+    second: outpost
+  - first:
+      33: 3300008
+    second: table
+  - first:
+      33: 3300010
+    second: wood
+  - first:
+      33: 3300012
+    second: wood_001
+  - first:
+      33: 3300014
+    second: wood_002
+  - first:
+      43: 4300000
+    second: wood_001
+  - first:
+      43: 4300002
+    second: wood
+  - first:
+      43: 4300004
+    second: outpost
+  - first:
+      43: 4300006
+    second: table
+  - first:
+      43: 4300008
+    second: dish
+  - first:
+      43: 4300010
+    second: wood_002
+  - first:
+      43: 4300012
+    second: lamp
+  - first:
+      43: 4300014
+    second: door
+  - first:
+      64: 6400000
+    second: dish
+  - first:
+      64: 6400002
+    second: door
+  - first:
+      64: 6400004
+    second: lamp
+  - first:
+      64: 6400006
+    second: outpost
+  - first:
+      64: 6400008
+    second: table
+  - first:
+      64: 6400010
+    second: wood
+  - first:
+      64: 6400012
+    second: wood_001
+  - first:
+      64: 6400014
+    second: wood_002
+  - first:
+      74: 7400000
+    second: OpenDoor
+  - first:
+      74: 7400002
+    second: Open
+  - first:
+      74: 7400004
+    second: Close
+  - first:
+      111: 11100000
+    second: //RootNode
   externalObjects: {}
   materials:
-    importMaterials: 1
+    materialImportMode: 1
     materialName: 3
     materialSearch: 1
     materialLocation: 0
+    searchTexturesGlobally: 1
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
     resampleCurves: 1
     optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
     motionNodeName: 
-    rigImportErrors: 
-    rigImportWarnings: 
     animationImportErrors: 
     animationImportWarnings: 
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
     importAnimatedCustomProperties: 0
+    importConstraints: 0
     animationCompression: 1
     animationRotationError: 0.5
     animationPositionError: 0.5
     animationScaleError: 0.5
-    animationWrapMode: 0
+    animationWrapMode: 4
     extraExposedTransformPaths: []
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
       name: OpenDoor
       takeName: Default Take
+      internalID: 0
       firstFrame: 0
       lastFrame: 11
       wrapMode: 0
@@ -105,7 +215,7 @@ ModelImporter:
       keepOriginalPositionXZ: 0
       heightFromFeet: 0
       mirror: 0
-      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000u
       curves: []
       events: []
       transformMask:
@@ -133,6 +243,7 @@ ModelImporter:
     - serializedVersion: 16
       name: Open
       takeName: Default Take
+      internalID: 0
       firstFrame: 0
       lastFrame: 29
       wrapMode: 0
@@ -151,7 +262,7 @@ ModelImporter:
       keepOriginalPositionXZ: 0
       heightFromFeet: 0
       mirror: 0
-      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000u
       curves: []
       events: []
       transformMask:
@@ -179,6 +290,7 @@ ModelImporter:
     - serializedVersion: 16
       name: Close
       takeName: Default Take
+      internalID: 0
       firstFrame: 11
       lastFrame: 29
       wrapMode: 0
@@ -197,7 +309,7 @@ ModelImporter:
       keepOriginalPositionXZ: 0
       heightFromFeet: 0
       mirror: 0
-      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000u
       curves: []
       events: []
       transformMask:
@@ -228,32 +340,57 @@ ModelImporter:
     globalScale: 1
     meshCompression: 0
     addColliders: 1
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    preBakeConvexCollisionMesh: 0
+    preBakeTriangleCollisionMesh: 1
+    importPhysicalCameras: 0
     importVisibility: 0
     importBlendShapes: 1
     importCameras: 0
     importLights: 0
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
-    optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
+    bakeAxisConversion: 0
     preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    generateMeshLods: 0
+    meshLodGenerationFlags: 0
+    maximumMeshLod: -1
+    importUVs: -1
+    importVertexColors: 1
+    meshOptimizationFlags: -1
     indexFormat: 1
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15
     secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 4
     useFileScale: 0
+    strictVertexDataChecks: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
     tangentImportMode: 4
     normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+    calculateBlendshapeNormalsDeltaFromImportedNormals: 1
+  referencedClips: []
   importAnimation: 1
-  copyAvatar: 0
   humanDescription:
-    serializedVersion: 2
+    serializedVersion: 3
     human: []
     skeleton: []
     armTwist: 0.5
@@ -263,14 +400,19 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
+    globalScale: 1
     rootMotionBoneName: 
-    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 0
   lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 1
   humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
   additionalBone: 0
   userData: 
   assetBundleName: 
